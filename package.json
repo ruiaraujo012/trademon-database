@@ -1,0 +1,15 @@
+{
+  "name": "trademon-database",
+  "version": "1.0.0",
+  "description": "Scripts related to the web app Trademon database. Here will be some scripts to populate the database with data from external API's.",
+  "main": "index.js",
+  "repository": "git@github.com:ruiaraujo012/trademon-database.git",
+  "author": "Rui Araújo <ruiaraujo012@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "pg": "^8.3.3"
+  }
+}
