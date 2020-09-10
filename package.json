@@ -7,6 +7,9 @@
   "author": "Rui Araújo <ruiaraujo012@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "axios": "^0.20.0",
     "dotenv": "^8.2.0",
